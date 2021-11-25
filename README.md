@@ -1,2 +1,2 @@
-# Kafka-with-Java
+# Kafka
 I am learning Kafka.
